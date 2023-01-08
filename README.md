@@ -1,8 +1,8 @@
 # base64 library
 
-[![NPM version](https://img.shields.io/npm/v/base64-cjs.svg)](https://www.npmjs.com/package/ base64-cjs)
-[![NPM downloads](https://img.shields.io/npm/dm/base64-cjs.svg)](https://www.npmjs.com/package/base64-cjs)
-[![Known Vulnerabilities](https://snyk.io/test/github/grjan7/base64-cjs/badge.svg)](https://snyk.io/test/github/grjan7/base64-cjs)
+[![NPM version](https://img.shields.io/npm/v/b64-cjs.svg)](https://www.npmjs.com/package/b64-cjs)
+[![NPM downloads](https://img.shields.io/npm/dm/b64-cjs.svg)](https://www.npmjs.com/package/b64-cjs)
+[![Known Vulnerabilities](https://snyk.io/test/github/grjan7/b64-cjs/badge.svg)](https://snyk.io/test/github/grjan7/b64-cjs)
 
 A library to encode to and decode from base64, similar to atob btoa of native JavaScript functions.
 
