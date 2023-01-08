@@ -1,4 +1,4 @@
-# base64 library
+# b64-cjs
 
 [![NPM version](https://img.shields.io/npm/v/b64-cjs.svg)](https://www.npmjs.com/package/b64-cjs)
 [![NPM downloads](https://img.shields.io/npm/dm/b64-cjs.svg)](https://www.npmjs.com/package/b64-cjs)
@@ -9,14 +9,14 @@ A library to encode to and decode from base64, similar to atob btoa of native Ja
 ## Installation 
 
 ```sh
-  $ npm install base64-cjs
+  $ npm install b64-cjs
 ```
 
 ## base64.encode(plainStr)
 
 ```js
 
-  import Base64 from 'base64';
+  const Base64 = require('b64-cjs');
 
   const myObj = {name: "john", age: 30};
   const myObjString = JSON.stringify(myObj);
@@ -30,7 +30,7 @@ A library to encode to and decode from base64, similar to atob btoa of native Ja
 
 ```js
 
-  import Base64 from 'base64';
+  const Base64 = require('b64-cjs');
 
   const myObj = {name: "john", age: 30};
   const myObjString = JSON.stringify(myObj);
