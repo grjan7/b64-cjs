@@ -1,0 +1,33 @@
+{
+  "name": "base64-cjs",
+  "version": "1.0.0",
+  "description": "A cjs library to encode to and decode from base64 charset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/base64.spec.js"
+  },
+  "keywords": [
+    "base64",
+    "encode",
+    "decode",
+    "atob",
+    "btoa",
+    "ascii",
+    "charset",
+    "cjs"
+  ],
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "homepage": "https://github.com/grjan7/base64-cjs#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grjan7/base64-cjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grjan7/base64-cjs/issues"
+  },
+  "author": "Jana Rangasamy <janagr7@gmail.com>",
+  "license": "ISC"
+}
